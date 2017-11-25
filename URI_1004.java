@@ -7,7 +7,6 @@ public class URI_1004 {
 		
 		int a,b,PROD;
 		
-		System.out.println("ENter");
 		a = sc.nextInt();
 		b = sc.nextInt();
 		
