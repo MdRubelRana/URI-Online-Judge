@@ -9,7 +9,6 @@ public class URI_1006 {
 		
 		double a,b,c,MEDIA;
 		
-		System.out.println("SALA");
 		a = sc.nextDouble();
 		b = sc.nextDouble();
 		c = sc.nextDouble();
