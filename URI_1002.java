@@ -8,7 +8,6 @@ public class URI_1002 {
 		DecimalFormat d = new DecimalFormat ("0.0000");
 		double A,R,PI=3.14159;
 		
-		System.out.println("Enter:");
 		R = abc.nextDouble();
 		
 		A = PI * (R*R);
