@@ -6,8 +6,7 @@ public class URI_1007 {
 		Scanner sc = new Scanner (System.in);
 		int A,B,C,D,DIFERENCA;
 		
-		
-		System.out.println("Enter");
+
 		A = sc.nextInt();
 		B = sc.nextInt();
 		C = sc.nextInt();
