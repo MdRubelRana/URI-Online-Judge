@@ -1,3 +1,3 @@
 # URI Online Judge
-URI Online Judge has many programming problem. Here is sloution of BEGINNER problem. This problem is sovled by Java programming language .  
-Wish you all the best. Thanks !!
+<strong>The URI Online Judge</strong> <br>
+The URI Online Judge is a project that is being developed by the Computer Science Department of URI University. The main goal of the project is to provide programming practice and knowledge sharing.
